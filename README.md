@@ -1,6 +1,6 @@
 Name: Kotlin Reminder App
 
-Description: Allows users to schedule a simple reminder for X seconds/minutes in the future, which then triggers a notification popup and plays a sound at the designated time
+Description: Allows users to schedule a simple reminder for X seconds in the future, which then triggers a notification popup and plays a sound at the designated time
 
 Visuals: Main Interface
 ![Screenshot_20231231_172137_reminderapp](https://github.com/om-petkar/reminderapp/assets/16927840/5b10f356-b4ce-4420-b1c0-a069018c7c4a)
