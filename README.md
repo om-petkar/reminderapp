@@ -1,4 +1,5 @@
 Name: Kotlin Reminder App
+
 Description: Allows users to schedule a simple reminder for X seconds/minutes in the future, which then triggers a notification popup and plays a sound at the designated time
 
 Visuals: Main Interface
@@ -6,6 +7,7 @@ Visuals: Main Interface
 
 Installation: The APK will be released and updated on my github page. It can be installed on Android Devices (Android Version 7.0+)
 You will need to edit your phone's settings to allow downloads from unknown sources
+
 Usage:
 1. Enter the # of seconds until the reminder is triggered in the top field
 2. Enter the message in the bottom field
@@ -16,6 +18,7 @@ Usage:
 ![Screenshot_20231231_172713_reminderapp](https://github.com/om-petkar/reminderapp/assets/16927840/369080f2-3ea9-46bf-8889-65ab993efe96)
 
 Support: Forward questions regarding support to om@petkar.ca
+
 Roadmap: 
 - Allow the user to pick a specific time for the reminder instead of the number of seconds/minutes into the future
 - Allow the user to schedule and manage multiple reminders
