@@ -24,4 +24,4 @@ Roadmap:
 - Allow the user to schedule and manage multiple reminders
 - Allow the user to toggle a setting which makes it so the reminder plays a sound even when the user's phone is asleep
 
-License: GNU GPL
+License: GNU GPL v3.0
