@@ -17,9 +17,11 @@ Usage:
 ![Screenshot_20231231_172657_reminderapp](https://github.com/om-petkar/reminderapp/assets/16927840/0ef51a7e-8d47-4b8f-9e5e-e48cd199f25b)
 ![Screenshot_20231231_172713_reminderapp](https://github.com/om-petkar/reminderapp/assets/16927840/369080f2-3ea9-46bf-8889-65ab993efe96)
 
-Support: Forward questions regarding support to om@petkar.ca
+Support: Feel free to report issues on the github page
 
 Roadmap: 
 - Allow the user to pick a specific time for the reminder instead of the number of seconds/minutes into the future
 - Allow the user to schedule and manage multiple reminders
 - Allow the user to toggle a setting which makes it so the reminder plays a sound even when the user's phone is asleep
+
+License: GNU GPL
